@@ -5,7 +5,7 @@
 <h4>A self-motivated individual with strong undestading of entire web development process and building web applications and I have good problem solving skills. I am a passionate developer who brings creative ideas in web development.</h4>
 
 **Front end skills**:</br>
-HTML5 • CSS3 • Javascript ES6+ • Typescript •  ReactJS • Jest • Axios • Bootstrap • Material UI • Styled Components
+HTML5 • CSS3 • Javascript ES6+ • Typescript •  ReactJS • EJS • Axios • PUG • Bootstrap • Material UI • Styled Components
 
 **Back end skills**:<br/>
 Nodejs • Express • MongoDB • Rest APIs • PostgreSQL • Mysql • GraphQL
