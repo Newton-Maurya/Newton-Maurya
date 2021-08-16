@@ -20,7 +20,7 @@ Nodejs • Express • MongoDB • Rest APIs • PostgreSQL • Mysql • GraphQ
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120px" height="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="30px"></span>&nbsp;
 
 
