@@ -32,7 +32,7 @@ Nodejs • Express • MongoDB • Rest APIs • PostgreSQL • Mysql • GraphQ
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30px"></span>&nbsp;
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" width="30px" height="50px"></span>&nbsp;
 
 
 
