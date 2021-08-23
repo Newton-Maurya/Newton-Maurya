@@ -2,7 +2,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=newtonkumar" alt="newton_kumar" /> 
 <a href="https://www.instagram.com/newton_maurya/"><img src="https://img.shields.io/badge/-newton_kumar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/newton_maurya/" alt="__Newton" /></a>
 <a href="https://www.linkedin.com/in/newton-maurya-2b7b30160/"><img  width="20" height="20" src="https://user-images.githubusercontent.com/77861206/108141093-dc1f0c80-70a1-11eb-9785-b0d766d22fff.png" alt="Linkedin" /></a>
-<h4>A self-motivated individual with strong undestading of entire web development process and building web applications with good problem solving skills. I am a passionate developer who brings creative ideas in web development.</h4>
+<h4>A self-motivated individual with a strong understanding of the entire web development process and building web applications with good problem-solving skills. I am a passionate developer who brings creative ideas to web development.</h4>
 
 **Front end skills**:</br>
 HTML5 • CSS3 • Javascript ES6+ • Typescript •  ReactJS • EJS • Axios • PUG • Bootstrap • Material UI • Styled Components
